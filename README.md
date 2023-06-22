@@ -12,13 +12,13 @@ Hello, I'm Taha, a passionate student pursuing my Bachelor's degree in Artificia
 
 - **Description**: This project is an object-oriented audio-video player implemented in Java. It provides various features like opening a directory, audio-video controls, and selecting files to play from a list view.
 - **Demo**: [Link to Demo](https://example.com)
-- **Repository**: [Link to Repository](https://github.com/yourusername/oop-audio-video-player)
+- **Repository**: [Link to Repository](https://github.com/MuhammadTahaMustafa-06/AUDIO-VIDEO-PLAYER-OOP-PROJECT.git)
 
 ### Home Automation using NodeMCU and Blynk IoT
 
 - **Description**: In this project, I have implemented home automation using NodeMCU, an open-source IoT platform, and Blynk, a mobile app development platform. The project allows remote control of home appliances, such as lights and fans, using the Blynk app.
 - **Demo**: [Link to Demo](https://example.com)
-- **Repository**: [Link to Repository](https://github.com/yourusername/home-automation-nodeMCU-blynk)
+- **Repository**: [Link to Repository](https://github.com/MuhammadTahaMustafa-06/HOME-AUTOMATION-NODE-MCU.git)
 
 ...
 
@@ -32,7 +32,7 @@ Hello, I'm Taha, a passionate student pursuing my Bachelor's degree in Artificia
 ## 📞 Contact
 
 - ✉️ Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muahmmad-taha-mustafa-83aa4092/)
 - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - 🌐 Website: [Your Personal Website](https://www.yourwebsite.com)
 
