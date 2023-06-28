@@ -31,7 +31,7 @@ Hello, I'm Taha, a passionate student pursuing my Bachelor's degree in Artificia
 
 ## 📞 Contact
 
-- ✉️ Email: your.email@example.com
+- ✉️ Email: tahazaheer12@gmail.com
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muahmmad-taha-mustafa-83aa4092/)
 - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - 🌐 Website: [Your Personal Website](https://www.yourwebsite.com)
