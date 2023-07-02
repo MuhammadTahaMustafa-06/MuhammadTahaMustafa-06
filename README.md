@@ -44,6 +44,6 @@ If you're interested in contributing to any of my projects or have ideas for col
 
 ## 📄 License
 
-All projects shared on my GitHub profile are under the [MIT License](LICENSE) unless otherwise specified.
+All projects shared on my GitHub profile are under the [MIT License](https://www.mit.edu/~amini/LICENSE.md) unless otherwise specified.
 
 Thank you again for visiting my profile. I look forward to connecting and collaborating with you!
